@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.temp
